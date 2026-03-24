@@ -70,7 +70,7 @@ user-management-api/
 ### Run with Docker (recommended)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/user-management-api.git
+git clone https://github.com/mohammedlahlou/user-management-api.git
 cd user-management-api
 docker-compose up --build
 ```
@@ -151,13 +151,10 @@ services:
 
 ## 🤝 Author
 
-**Your Name**  
+**Mohammed Lahlou**  
 Freelance Java/Spring Boot Developer  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [Upwork](https://upwork.com/yourprofile)
+📧 lahloumohammed28@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/lahloumohammed/) | [Upwork](https://upwork.com/yourprofile)
 
 ---
 
-## 📄 License
-
-MIT License — feel free to use this project as a reference.
